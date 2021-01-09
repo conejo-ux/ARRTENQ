@@ -1,0 +1,9 @@
+body{
+    background: black;
+    color: white;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
